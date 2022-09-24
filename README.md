@@ -6,6 +6,8 @@ Join the list?
 
 See: [Contributing](./CONTRIBUTING.md)
 
+⚠️ Pull requests must follow the rules stated in the Contributing file or they won't be accepted
+
 ## Teachers
 
 - [Alessandro Aussems](./people/alessandro_aussems.md)
