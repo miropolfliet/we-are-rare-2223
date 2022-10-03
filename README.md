@@ -16,3 +16,4 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
+- [Bo Claes](./people/bo_claes.md)
