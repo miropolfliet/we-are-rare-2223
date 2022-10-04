@@ -19,3 +19,4 @@ See: [Contributing](./CONTRIBUTING.md)
 
 - [Rinus Van Linden](./people/rinus_van_linden.md)
 - [Bo Claes](./people/bo_claes.md)
+- [Jari Thys](./people/jari_thys.md)
