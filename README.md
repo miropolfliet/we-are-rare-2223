@@ -19,3 +19,5 @@ See: [Contributing](./CONTRIBUTING.md)
 
 - [Rinus Van Linden](./people/rinus_van_linden.md)
 - [Bo Claes](./people/bo_claes.md)
+- [Senne De Winter](./people/senne_de_winter.md)
+
