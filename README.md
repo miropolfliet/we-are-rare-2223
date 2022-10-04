@@ -16,3 +16,4 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
+-[Rinus Van Linden](./people/rinus_van_linden.md)
