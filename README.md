@@ -16,8 +16,7 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
-
 - [Rinus Van Linden](./people/rinus_van_linden.md)
 - [Bo Claes](./people/bo_claes.md)
+- [Myrthe Diepeveen](./people/myrthe_diepeveen.md)
 - [Senne De Winter](./people/senne_de_winter.md)
-
